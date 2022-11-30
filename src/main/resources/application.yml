@@ -1,0 +1,6 @@
+server:
+  port: 9090
+myapp: 
+  messages: 
+    welcomeMsg: Welcome Back KL Rahul to RCB...!!
+    greetMsg: Good Morning KL Rahul
